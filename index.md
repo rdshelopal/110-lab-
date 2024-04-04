@@ -9,7 +9,7 @@
   - [x] CSE140
   - [ ] CSE140L
   - [ ] ECE109
-* [This will take you to my readme md file for this lab](README.md)
+* [This will take you to my readme file for this lab!](README.md)
   - During this lab I had a hard time using `git push` because i did not have a ssh key
 
 ## _These are my other interests_
