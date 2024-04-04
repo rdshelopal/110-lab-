@@ -15,8 +15,8 @@
 ### _These are my other interests_
 **1.** Video Games
   ![Image](ryu-hadoken-chun-li.jpg)
-   > From __Street Fighter 6__
    > ~~Hadoken!~~
+
 **2.** Gym
   ![Image](Gym-structure-1080x675.png)
    > I workout here [RIMAC](https://recreation.ucsd.edu/)
