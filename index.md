@@ -10,7 +10,7 @@
   - [] CSE140L
   - [] ECE109
 * [This is a screenshot from my lab 1] (screenshots/part2.png)
-  - I had a hard time using `git push` because i didnt have a ssh key
+  - I had a hard time using `git push` because i did not have a ssh key
 
 ### _These are my other interests_
 1. Video Games
