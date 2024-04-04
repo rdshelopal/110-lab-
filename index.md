@@ -9,10 +9,10 @@
   - [x] CSE140
   - [ ] CSE140L
   - [ ] ECE109
-* [This is a screenshot from my readme md file] (README.md)
+* [This is a screenshot from my readme md file] (110-lab-/README.md)
   - I had a hard time using `git push` because i did not have a ssh key
 
-### _These are my other interests_
+## _These are my other interests_
 **1.** Video Games
   ![Image](ryu-hadoken-chun-li.jpg)
    > ~~Hadoken!~~
