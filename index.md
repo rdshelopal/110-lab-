@@ -9,8 +9,8 @@
   - [x] CSE140
   - [ ] CSE140L
   - [ ] ECE109
-* [This is a screenshot from my readme md file](README.md)
-  - I had a hard time using `git push` because i did not have a ssh key
+* [This will take you to my readme md file for this lab](README.md)
+  - During this lab I had a hard time using `git push` because i did not have a ssh key
 
 ## _These are my other interests_
 **1.** Video Games
